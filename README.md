@@ -19,3 +19,10 @@ to teach himself calculus during his teens.
 
 This series contains exercises and challenges sprinkled all over the text. 
 Consequently, the reader can learn and practice as the reading progresses.
+
+# List of books
+1. Introduction to python programming: a continuum mechanics perspective 
+(ISBN: 978-65-02-02736-3, DOI: 10.5281/zenodo.19361660)
+
+2. Introduction to continuum mechanics: an incursion into computational 
+mechanics self-study (ISBN: 978-65-02-02737-0, DOI: 10.5281/zenodo.19361358)
